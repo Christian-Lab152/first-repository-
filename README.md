@@ -15,3 +15,9 @@ _Thank you_ ** much for reading**
 
 [Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
 
+* hi
+* how
+* are
+* you
+
+
