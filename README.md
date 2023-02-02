@@ -7,10 +7,11 @@ My mood:(www.google.com)
 
 > Happy
 
-My favorite color:
+> my favortie coller:
 
 > Red
 
 _Thank you_ ** much for reading**
 
 [Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
